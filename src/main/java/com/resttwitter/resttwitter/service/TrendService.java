@@ -16,12 +16,19 @@ public class TrendService {
     @Autowired
     WOEIDRepository WOEIDRepository;
 
-    RestConsumer consumerRepository = new RestConsumer();
+    @Autowired
+    RestConsumer consumerRepository;
 
 
     public  TrendsObject getWOEID(String city) throws IOException {
 
-        WOEIDObject id = WOEIDRepository.findById(city).get();
+        WOEIDObject id = null;
+        if(WOEIDRepository.existsById(city)){
+            id = WOEIDRepository.findById(city).get();
+        }else {
+            id = WOEIDRepository.findByNameIgnoreCaseContaining(city);
+        }
+
         final TrendsObject trendsObject = consumerRepository.callTwitterAPI(id.getWOEID());
         return trendsObject;
     }

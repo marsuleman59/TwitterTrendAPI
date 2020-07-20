@@ -9,11 +9,8 @@ import java.io.IOException;
 @SpringBootApplication
 public class ResttwitterApplication {
 
-//	private static WOEIDService woeidService = new WOEIDService();
-
 	public static void main(String[] args) throws IOException {
 		SpringApplication.run(ResttwitterApplication.class, args);
-		//woeidService.storeWOEID();
 
 	}
 

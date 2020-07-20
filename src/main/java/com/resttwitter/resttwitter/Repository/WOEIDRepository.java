@@ -11,5 +11,8 @@ public interface WOEIDRepository extends JpaRepository<WOEIDObject, String> {
 //        @Query("SELECT n FROM woeidobject  n WHERE n.name = ?1")
 //        WOEIDObject findIdByCity(String name);
 
+    WOEIDObject findByNameIgnoreCaseContaining(String name);
+
+
 
 }

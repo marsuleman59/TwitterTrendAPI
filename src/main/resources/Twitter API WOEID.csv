@@ -1,0 +1,468 @@
+﻿name,country,woeid,countryCode
+Worldwide,,1,null
+Winnipeg,Canada,2972,CA
+Ottawa,Canada,3369,CA
+Quebec,Canada,3444,CA
+Montreal,Canada,3534,CA
+Toronto,Canada,4118,CA
+Edmonton,Canada,8676,CA
+Calgary,Canada,8775,CA
+Vancouver,Canada,9807,CA
+Birmingham,United Kingdom,12723,GB
+Blackpool,United Kingdom,12903,GB
+Bournemouth,United Kingdom,13383,GB
+Brighton,United Kingdom,13911,GB
+Bristol,United Kingdom,13963,GB
+Cardiff,United Kingdom,15127,GB
+Coventry,United Kingdom,17044,GB
+Derby,United Kingdom,18114,GB
+Edinburgh,United Kingdom,19344,GB
+Glasgow,United Kingdom,21125,GB
+Hull,United Kingdom,25211,GB
+Leeds,United Kingdom,26042,GB
+Leicester,United Kingdom,26062,GB
+Liverpool,United Kingdom,26734,GB
+Manchester,United Kingdom,28218,GB
+Middlesbrough,United Kingdom,28869,GB
+Newcastle,United Kingdom,30079,GB
+Nottingham,United Kingdom,30720,GB
+Plymouth,United Kingdom,32185,GB
+Portsmouth,United Kingdom,32452,GB
+Preston,United Kingdom,32566,GB
+Sheffield,United Kingdom,34503,GB
+Stoke-on-Trent,United Kingdom,36240,GB
+Swansea,United Kingdom,36758,GB
+London,United Kingdom,44418,GB
+Belfast,United Kingdom,44544,GB
+Santo Domingo,Dominican Republic,76456,DO
+Guatemala City,Guatemala,83123,GT
+Acapulco,Mexico,110978,MX
+Aguascalientes,Mexico,111579,MX
+Chihuahua,Mexico,115958,MX
+Mexico City,Mexico,116545,MX
+Ciudad Juarez,Mexico,116556,MX
+Nezahualcóyotl,Mexico,116564,MX
+Culiacán,Mexico,117994,MX
+Ecatepec de Morelos,Mexico,118466,MX
+Guadalajara,Mexico,124162,MX
+Hermosillo,Mexico,124785,MX
+León,Mexico,131068,MX
+Mérida,Mexico,133327,MX
+Mexicali,Mexico,133475,MX
+Monterrey,Mexico,134047,MX
+Morelia,Mexico,134091,MX
+Naucalpan de Juárez,Mexico,134395,MX
+Puebla,Mexico,137612,MX
+Querétaro,Mexico,138045,MX
+Saltillo,Mexico,141272,MX
+San Luis Potosí,Mexico,144265,MX
+Tijuana,Mexico,149361,MX
+Toluca,Mexico,149769,MX
+Zapopan,Mexico,151582,MX
+Mendoza,Argentina,332471,AR
+Santiago,Chile,349859,CL
+Concepcion,Chile,349860,CL
+Valparaiso,Chile,349861,CL
+Bogotá,Colombia,368148,CO
+Cali,Colombia,368149,CO
+Medellín,Colombia,368150,CO
+Barranquilla,Colombia,368151,CO
+Quito,Ecuador,375732,EC
+Guayaquil,Ecuador,375733,EC
+Caracas,Venezuela,395269,VE
+Maracaibo,Venezuela,395270,VE
+Maracay,Venezuela,395271,VE
+Valencia,Venezuela,395272,VE
+Barcelona,Venezuela,395273,VE
+Ciudad Guayana,Venezuela,395275,VE
+Turmero,Venezuela,395277,VE
+Lima,Peru,418440,PE
+Brasília,Brazil,455819,BR
+Belém,Brazil,455820,BR
+Belo Horizonte,Brazil,455821,BR
+Curitiba,Brazil,455822,BR
+Porto Alegre,Brazil,455823,BR
+Recife,Brazil,455824,BR
+Rio de Janeiro,Brazil,455825,BR
+Salvador,Brazil,455826,BR
+São Paulo,Brazil,455827,BR
+Campinas,Brazil,455828,BR
+Fortaleza,Brazil,455830,BR
+Goiânia,Brazil,455831,BR
+Manaus,Brazil,455833,BR
+São Luís,Brazil,455834,BR
+Guarulhos,Brazil,455867,BR
+Córdoba,Argentina,466861,AR
+Rosario,Argentina,466862,AR
+Barquisimeto,Venezuela,468382,VE
+Maturín,Venezuela,468384,VE
+Buenos Aires,Argentina,468739,AR
+Gdańsk,Poland,493417,PL
+Kraków,Poland,502075,PL
+Lodz,Poland,505120,PL
+Poznań,Poland,514048,PL
+Warsaw,Poland,523920,PL
+Wroclaw,Poland,526363,PL
+Vienna,Austria,551801,AT
+Cork,Ireland,560472,IE
+Dublin,Ireland,560743,IE
+Galway,Ireland,560912,IE
+Bordeaux,France,580778,FR
+Lille,France,608105,FR
+Lyon,France,609125,FR
+Marseille,France,610264,FR
+Montpellier,France,612977,FR
+Nantes,France,613858,FR
+Paris,France,615702,FR
+Rennes,France,619163,FR
+Strasbourg,France,627791,FR
+Toulouse,France,628886,FR
+Berlin,Germany,638242,DE
+Bremen,Germany,641142,DE
+Dortmund,Germany,645458,DE
+Dresden,Germany,645686,DE
+Dusseldorf,Germany,646099,DE
+Essen,Germany,648820,DE
+Frankfurt,Germany,650272,DE
+Hamburg,Germany,656958,DE
+Cologne,Germany,667931,DE
+Leipzig,Germany,671072,DE
+Munich,Germany,676757,DE
+Stuttgart,Germany,698064,DE
+Bologna,Italy,711080,IT
+Genoa,Italy,716085,IT
+Milan,Italy,718345,IT
+Naples,Italy,719258,IT
+Palermo,Italy,719846,IT
+Rome,Italy,721943,IT
+Turin,Italy,725003,IT
+Den Haag,Netherlands,726874,NL
+Amsterdam,Netherlands,727232,NL
+Rotterdam,Netherlands,733075,NL
+Utrecht,Netherlands,734047,NL
+Barcelona,Spain,753692,ES
+Bilbao,Spain,754542,ES
+Las Palmas,Spain,764814,ES
+Madrid,Spain,766273,ES
+Malaga,Spain,766356,ES
+Murcia,Spain,768026,ES
+Palma,Spain,769293,ES
+Seville,Spain,774508,ES
+Valencia,Spain,776688,ES
+Zaragoza,Spain,779063,ES
+Geneva,Switzerland,782538,CH
+Lausanne,Switzerland,783058,CH
+Zurich,Switzerland,784794,CH
+Brest,Belarus,824382,BY
+Grodno,Belarus,825848,BY
+Gomel,Belarus,825978,BY
+Minsk,Belarus,834463,BY
+Riga,Latvia,854823,LV
+Bergen,Norway,857105,NO
+Oslo,Norway,862592,NO
+Gothenburg,Sweden,890869,SE
+Stockholm,Sweden,906057,SE
+Dnipropetrovsk,Ukraine,918981,UA
+Donetsk,Ukraine,919163,UA
+Kharkiv,Ukraine,922137,UA
+Kyiv,Ukraine,924938,UA
+Lviv,Ukraine,924943,UA
+Odesa,Ukraine,929398,UA
+Zaporozhye,Ukraine,939628,UA
+Athens,Greece,946738,GR
+Thessaloniki,Greece,963291,GR
+Bekasi,Indonesia,1030077,ID
+Depok,Indonesia,1032539,ID
+Pekanbaru,Indonesia,1040779,ID
+Surabaya,Indonesia,1044316,ID
+Makassar,Indonesia,1046138,ID
+Bandung,Indonesia,1047180,ID
+Jakarta,Indonesia,1047378,ID
+Medan,Indonesia,1047908,ID
+Palembang,Indonesia,1048059,ID
+Semarang,Indonesia,1048324,ID
+Tangerang,Indonesia,1048536,ID
+Singapore,Singapore,1062617,SG
+Perth,Australia,1098081,AU
+Adelaide,Australia,1099805,AU
+Brisbane,Australia,1100661,AU
+Canberra,Australia,1100968,AU
+Darwin,Australia,1101597,AU
+Melbourne,Australia,1103816,AU
+Sydney,Australia,1105779,AU
+Kitakyushu,Japan,1110809,JP
+Saitama,Japan,1116753,JP
+Chiba,Japan,1117034,JP
+Fukuoka,Japan,1117099,JP
+Hamamatsu,Japan,1117155,JP
+Hiroshima,Japan,1117227,JP
+Kawasaki,Japan,1117502,JP
+Kobe,Japan,1117545,JP
+Kumamoto,Japan,1117605,JP
+Nagoya,Japan,1117817,JP
+Niigata,Japan,1117881,JP
+Sagamihara,Japan,1118072,JP
+Sapporo,Japan,1118108,JP
+Sendai,Japan,1118129,JP
+Takamatsu,Japan,1118285,JP
+Tokyo,Japan,1118370,JP
+Yokohama,Japan,1118550,JP
+Goyang,Korea,1130853,KR
+Yongin,Korea,1132094,KR
+Ansan,Korea,1132444,KR
+Bucheon,Korea,1132445,KR
+Busan,Korea,1132447,KR
+Changwon,Korea,1132449,KR
+Daegu,Korea,1132466,KR
+Gwangju,Korea,1132481,KR
+Incheon,Korea,1132496,KR
+Seongnam,Korea,1132559,KR
+Suwon,Korea,1132567,KR
+Ulsan,Korea,1132578,KR
+Seoul,Korea,1132599,KR
+Kajang,Malaysia,1141268,MY
+Ipoh,Malaysia,1154679,MY
+Johor Bahru,Malaysia,1154698,MY
+Klang,Malaysia,1154726,MY
+Kuala Lumpur,Malaysia,1154781,MY
+Calocan,Philippines,1167715,PH
+Makati,Philippines,1180689,PH
+Pasig,Philippines,1187115,PH
+Taguig,Philippines,1195098,PH
+Antipolo,Philippines,1198785,PH
+Cagayan de Oro,Philippines,1199002,PH
+Cebu City,Philippines,1199079,PH
+Davao City,Philippines,1199136,PH
+Manila,Philippines,1199477,PH
+Quezon City,Philippines,1199682,PH
+Zamboanga City,Philippines,1199980,PH
+Bangkok,Thailand,1225448,TH
+Hanoi,Vietnam,1236594,VN
+Hai Phong,Vietnam,1236690,VN
+Can Tho,Vietnam,1252351,VN
+Da Nang,Vietnam,1252376,VN
+Ho Chi Minh City,Vietnam,1252431,VN
+Algiers,Algeria,1253079,DZ
+Accra,Ghana,1326075,GH
+Kumasi,Ghana,1330595,GH
+Benin City,Nigeria,1387660,NG
+Ibadan,Nigeria,1393672,NG
+Kaduna,Nigeria,1396439,NG
+Kano,Nigeria,1396803,NG
+Lagos,Nigeria,1398823,NG
+Port Harcourt,Nigeria,1404447,NG
+Giza,Egypt,1521643,EG
+Cairo,Egypt,1521894,EG
+Alexandria,Egypt,1522006,EG
+Mombasa,Kenya,1528335,KE
+Nairobi,Kenya,1528488,KE
+Durban,South Africa,1580913,ZA
+Johannesburg,South Africa,1582504,ZA
+Port Elizabeth,South Africa,1586614,ZA
+Pretoria,South Africa,1586638,ZA
+Soweto,South Africa,1587677,ZA
+Cape Town,South Africa,1591691,ZA
+Medina,Saudi Arabia,1937801,SA
+Dammam,Saudi Arabia,1939574,SA
+Riyadh,Saudi Arabia,1939753,SA
+Jeddah,Saudi Arabia,1939873,SA
+Mecca,Saudi Arabia,1939897,SA
+Sharjah,United Arab Emirates,1940119,AE
+Abu Dhabi,United Arab Emirates,1940330,AE
+Dubai,United Arab Emirates,1940345,AE
+Haifa,Israel,1967449,IL
+Tel Aviv,Israel,1968212,IL
+Jerusalem,Israel,1968222,IL
+Amman,Jordan,1968902,JO
+Chelyabinsk,Russia,1997422,RU
+Khabarovsk,Russia,2018708,RU
+Krasnodar,Russia,2028717,RU
+Krasnoyarsk,Russia,2029043,RU
+Samara,Russia,2077746,RU
+Voronezh,Russia,2108210,RU
+Yekaterinburg,Russia,2112237,RU
+Irkutsk,Russia,2121040,RU
+Kazan,Russia,2121267,RU
+Moscow,Russia,2122265,RU
+Nizhny Novgorod,Russia,2122471,RU
+Novosibirsk,Russia,2122541,RU
+Omsk,Russia,2122641,RU
+Perm,Russia,2122814,RU
+Rostov-on-Don,Russia,2123177,RU
+Saint Petersburg,Russia,2123260,RU
+Ufa,Russia,2124045,RU
+Vladivostok,Russia,2124288,RU
+Volgograd,Russia,2124298,RU
+Karachi,Pakistan,2211096,PK
+Lahore,Pakistan,2211177,PK
+Multan,Pakistan,2211269,PK
+Rawalpindi,Pakistan,2211387,PK
+Faisalabad,Pakistan,2211574,PK
+Muscat,Oman,2268284,OM
+Nagpur,India,2282863,IN
+Lucknow,India,2295377,IN
+Kanpur,India,2295378,IN
+Patna,India,2295381,IN
+Ranchi,India,2295383,IN
+Kolkata,India,2295386,IN
+Srinagar,India,2295387,IN
+Amritsar,India,2295388,IN
+Jaipur,India,2295401,IN
+Ahmedabad,India,2295402,IN
+Rajkot,India,2295404,IN
+Surat,India,2295405,IN
+Bhopal,India,2295407,IN
+Indore,India,2295408,IN
+Thane,India,2295410,IN
+Mumbai,India,2295411,IN
+Pune,India,2295412,IN
+Hyderabad,India,2295414,IN
+Bangalore,India,2295420,IN
+Chennai,India,2295424,IN
+Mersin,Turkey,2323778,TR
+Adana,Turkey,2343678,TR
+Ankara,Turkey,2343732,TR
+Antalya,Turkey,2343733,TR
+Bursa,Turkey,2343843,TR
+Diyarbakır,Turkey,2343932,TR
+Eskişehir,Turkey,2343980,TR
+Gaziantep,Turkey,2343999,TR
+Istanbul,Turkey,2344116,TR
+Izmir,Turkey,2344117,TR
+Kayseri,Turkey,2344174,TR
+Konya,Turkey,2344210,TR
+Okinawa,Japan,2345896,JP
+Daejeon,Korea,2345975,KR
+Auckland,New Zealand,2348079,NZ
+Albuquerque,United States,2352824,US
+Atlanta,United States,2357024,US
+Austin,United States,2357536,US
+Baltimore,United States,2358820,US
+Baton Rouge,United States,2359991,US
+Birmingham,United States,2364559,US
+Boston,United States,2367105,US
+Charlotte,United States,2378426,US
+Chicago,United States,2379574,US
+Cincinnati,United States,2380358,US
+Cleveland,United States,2381475,US
+Colorado Springs,United States,2383489,US
+Columbus,United States,2383660,US
+Dallas-Ft. Worth,United States,2388929,US
+Denver,United States,2391279,US
+Detroit,United States,2391585,US
+El Paso,United States,2397816,US
+Fresno,United States,2407517,US
+Greensboro,United States,2414469,US
+Harrisburg,United States,2418046,US
+Honolulu,United States,2423945,US
+Houston,United States,2424766,US
+Indianapolis,United States,2427032,US
+Jackson,United States,2428184,US
+Jacksonville,United States,2428344,US
+Kansas City,United States,2430683,US
+Las Vegas,United States,2436704,US
+Long Beach,United States,2441472,US
+Los Angeles,United States,2442047,US
+Louisville,United States,2442327,US
+Memphis,United States,2449323,US
+Mesa,United States,2449808,US
+Miami,United States,2450022,US
+Milwaukee,United States,2451822,US
+Minneapolis,United States,2452078,US
+Nashville,United States,2457170,US
+New Haven,United States,2458410,US
+New Orleans,United States,2458833,US
+New York,United States,2459115,US
+Norfolk,United States,2460389,US
+Oklahoma City,United States,2464592,US
+Omaha,United States,2465512,US
+Orlando,United States,2466256,US
+Philadelphia,United States,2471217,US
+Phoenix,United States,2471390,US
+Pittsburgh,United States,2473224,US
+Portland,United States,2475687,US
+Providence,United States,2477058,US
+Raleigh,United States,2478307,US
+Richmond,United States,2480894,US
+Sacramento,United States,2486340,US
+St. Louis,United States,2486982,US
+Salt Lake City,United States,2487610,US
+San Antonio,United States,2487796,US
+San Diego,United States,2487889,US
+San Francisco,United States,2487956,US
+San Jose,United States,2488042,US
+Seattle,United States,2490383,US
+Tallahassee,United States,2503713,US
+Tampa,United States,2503863,US
+Tucson,United States,2508428,US
+Virginia Beach,United States,2512636,US
+Washington,United States,2514815,US
+Osaka,Japan,15015370,JP
+Kyoto,Japan,15015372,JP
+Delhi,India,20070458,IN
+United Arab Emirates,United Arab Emirates,23424738,AE
+Algeria,Algeria,23424740,DZ
+Argentina,Argentina,23424747,AR
+Australia,Australia,23424748,AU
+Austria,Austria,23424750,AT
+Bahrain,Bahrain,23424753,BH
+Belgium,Belgium,23424757,BE
+Belarus,Belarus,23424765,BY
+Brazil,Brazil,23424768,BR
+Canada,Canada,23424775,CA
+Chile,Chile,23424782,CL
+Colombia,Colombia,23424787,CO
+Denmark,Denmark,23424796,DK
+Dominican Republic,Dominican Republic,23424800,DO
+Ecuador,Ecuador,23424801,EC
+Egypt,Egypt,23424802,EG
+Ireland,Ireland,23424803,IE
+France,France,23424819,FR
+Ghana,Ghana,23424824,GH
+Germany,Germany,23424829,DE
+Greece,Greece,23424833,GR
+Guatemala,Guatemala,23424834,GT
+Indonesia,Indonesia,23424846,ID
+India,India,23424848,IN
+Israel,Israel,23424852,IL
+Italy,Italy,23424853,IT
+Japan,Japan,23424856,JP
+Jordan,Jordan,23424860,JO
+Kenya,Kenya,23424863,KE
+Korea,Korea,23424868,KR
+Kuwait,Kuwait,23424870,KW
+Lebanon,Lebanon,23424873,LB
+Latvia,Latvia,23424874,LV
+Oman,Oman,23424898,OM
+Mexico,Mexico,23424900,MX
+Malaysia,Malaysia,23424901,MY
+Nigeria,Nigeria,23424908,NG
+Netherlands,Netherlands,23424909,NL
+Norway,Norway,23424910,NO
+New Zealand,New Zealand,23424916,NZ
+Peru,Peru,23424919,PE
+Pakistan,Pakistan,23424922,PK
+Poland,Poland,23424923,PL
+Panama,Panama,23424924,PA
+Portugal,Portugal,23424925,PT
+Qatar,Qatar,23424930,QA
+Philippines,Philippines,23424934,PH
+Puerto Rico,Puerto Rico,23424935,PR
+Russia,Russia,23424936,RU
+Saudi Arabia,Saudi Arabia,23424938,SA
+South Africa,South Africa,23424942,ZA
+Singapore,Singapore,23424948,SG
+Spain,Spain,23424950,ES
+Sweden,Sweden,23424954,SE
+Switzerland,Switzerland,23424957,CH
+Thailand,Thailand,23424960,TH
+Turkey,Turkey,23424969,TR
+United Kingdom,United Kingdom,23424975,GB
+Ukraine,Ukraine,23424976,UA
+United States,United States,23424977,US
+Venezuela,Venezuela,23424982,VE
+Vietnam,Vietnam,23424984,VN
+Petaling,Malaysia,56013632,MY
+Hulu Langat,Malaysia,56013645,MY
+Ahsa,Saudi Arabia,56120136,SA
+Okayama,Japan,90036018,JP

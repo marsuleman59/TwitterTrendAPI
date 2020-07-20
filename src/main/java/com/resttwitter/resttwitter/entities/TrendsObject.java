@@ -4,6 +4,8 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.Collection;
+import java.util.Collections;
 import java.util.List;
 
 @Data
@@ -13,6 +15,7 @@ public class TrendsObject {
     private List<Trend> trends;
 
     private String as_of;
+
 
     private String created_at;
 
