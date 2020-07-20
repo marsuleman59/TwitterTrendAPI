@@ -34,7 +34,7 @@ public class MVCController {
     @RequestMapping("/search")
     public String searchCity (@RequestParam(value = "searchCityParam", required = true) String searchCityParam, Model model) throws IOException {
         ModelAndView modelAndView = new ModelAndView();
-        final TrendsObject trend = trendService.getWOEID(searchCityParam);
+        final TrendsObject trend = trendService.getWOEID(searchCityParam.toLowerCase());
         model.addAttribute("trends",trend.getTrends());
         return "index";
     }
