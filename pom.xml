@@ -12,6 +12,7 @@
 	<artifactId>resttwitter</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>resttwitter</name>
+	<packaging>war</packaging>
 	<description>Demo project for rest Twitter</description>
 
 	<properties>
