@@ -1,3 +1,3 @@
 # TwitterTrendAPI
-<h2>This app utilizes Twitter trend API using Authorization bearer token.</h2>
+<h4><marquee>This app utilizes Twitter trend API using Authorization bearer token.<marquee></h4>
 
